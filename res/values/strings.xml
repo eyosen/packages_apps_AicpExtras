@@ -1617,4 +1617,8 @@
     <!-- Show VoWiFi icon -->
     <string name="vowifi_switch_title">VoWiFi icon</string>
     <string name="vowifi_switch_summary">Display VoWiFi icon</string>
+
+    <!-- StatusBar notification count -->
+    <string name="notif_count_title">Show notification count</string>
+    <string name="notif_count_summary">Enable to number of notifications on notification icons</string>
 </resources>
