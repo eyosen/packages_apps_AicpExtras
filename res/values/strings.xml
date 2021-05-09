@@ -1712,4 +1712,7 @@
     <string name="clipboard_toast_info_title">Clipboard access alerts</string>
     <string name="clipboard_toast_info_show_important">Show only important alerts</string>
     <string name="clipboard_toast_info_show_all">Show all access alerts</string>
+
+    <!-- Notification background opacity -->
+    <string name="notification_alpha_title">Background opacity</string>
 </resources>
