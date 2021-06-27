@@ -1731,4 +1731,8 @@
     <string name="home_button_mode_title">Action on incoming call</string>
     <string name="home_button_mode_nothing">Do nothing (default)</string>
     <string name="home_button_mode_answer_call">Answer incoming call</string>
+
+    <!-- SearchBar Style -->
+    <string name="search_bar_style_title">Use Android 12 Search Bar</string>
+    <string name="search_bar_style_summary">Toggle to use Android 12 style searchbar in Settings app. Settings app needs to be manually restarted for the change to take effect.</string>
 </resources>
